@@ -1,0 +1,9 @@
+{
+  "name": "react-native-yui",
+  "version": "1.0.0",
+  "description": "React Native UI Components",
+  "main": "index.ts",
+  "author": "yayko",
+  "license": "MIT",
+  "private": false
+}
